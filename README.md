@@ -1,3 +1,4 @@
+# 先 pip install pipx，但安裝好依賴庫之後，執行還是報錯
 # ospeak
 
 [![PyPI](https://img.shields.io/pypi/v/ospeak.svg)](https://pypi.org/project/ospeak/)
